@@ -1,0 +1,7 @@
+Za testiranje je najlažje uporabiti tj.exe (kot pri programiranju 1). Navodila za "prilagoditev":
+* testne primere preimenujete v vhod0x.txt in izhod0x.txt (najlažje s TotalCommanderjem ali cem podobnim)
+* program prilagodite za izpis/vpis na standardnem izhodu/vhodu
+* poženete tj.exe Nalogax.java . .
+
+~ko ste zadovoljni z delovanje program prilagodite v koncno verzijo (nato lahko testirate rocno z fc ukazom)
+~uporaben parameter je lahko tudi -times (izpiše koliko casa se program izvaja)
